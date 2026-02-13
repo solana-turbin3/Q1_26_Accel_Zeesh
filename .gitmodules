@@ -4,3 +4,6 @@
 [submodule "escrow-litesvm"]
 	path = escrow-litesvm
 	url = https://github.com/zsh28/escrow-litesvm
+[submodule "magicblock-vrf"]
+	path = magicblock-vrf
+	url = https://github.com/zsh28/magicblock-vrf
