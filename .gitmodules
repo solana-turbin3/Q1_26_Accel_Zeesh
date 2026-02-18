@@ -10,3 +10,6 @@
 [submodule "anchor-escrow-tuktuk"]
 	path = anchor-escrow-tuktuk
 	url = https://github.com/zsh28/anchor-escrow-tuktuk
+[submodule "rust-concepts"]
+	path = rust-concepts
+	url = https://github.com/zsh28/rust-concepts
