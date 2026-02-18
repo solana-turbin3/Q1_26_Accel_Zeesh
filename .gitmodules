@@ -13,3 +13,6 @@
 [submodule "rust-concepts"]
 	path = rust-concepts
 	url = https://github.com/zsh28/rust-concepts
+[submodule "solana-gpt-tuktuk"]
+	path = solana-gpt-tuktuk
+	url = https://github.com/zsh28/solana-gpt-tuktuk
