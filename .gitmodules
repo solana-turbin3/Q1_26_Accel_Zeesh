@@ -7,3 +7,6 @@
 [submodule "magicblock-vrf"]
 	path = magicblock-vrf
 	url = https://github.com/zsh28/magicblock-vrf
+[submodule "anchor-escrow-tuktuk"]
+	path = anchor-escrow-tuktuk
+	url = https://github.com/zsh28/anchor-escrow-tuktuk
