@@ -19,3 +19,6 @@
 [submodule "accel-pinocchio-escrow"]
 	path = accel-pinocchio-escrow
 	url = https://github.com/zsh28/accel-pinocchio-escrow
+[submodule "pinnochio-fundraiser"]
+	path = pinnochio-fundraiser
+	url = https://github.com/zsh28/pinnochio-fundraiser
