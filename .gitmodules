@@ -16,3 +16,6 @@
 [submodule "solana-gpt-tuktuk"]
 	path = solana-gpt-tuktuk
 	url = https://github.com/zsh28/solana-gpt-tuktuk
+[submodule "accel-pinocchio-escrow"]
+	path = accel-pinocchio-escrow
+	url = https://github.com/zsh28/accel-pinocchio-escrow
