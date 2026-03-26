@@ -22,3 +22,9 @@
 [submodule "pinnochio-fundraiser"]
 	path = pinnochio-fundraiser
 	url = https://github.com/zsh28/pinnochio-fundraiser
+[submodule "nft-staking-core-example"]
+	path = nft-staking-core-example
+	url = https://github.com/zsh28/nft-staking-core-example
+[submodule "accel-PortProtocol"]
+	path = accel-PortProtocol
+	url = https://github.com/Turbin3/accel-PortProtocol
